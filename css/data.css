@@ -1,0 +1,24 @@
+h3{
+    text-align: center;
+    -webkit-user-select: none;
+}
+.add{
+    cursor: pointer;
+    text-align: center;
+}
+form{
+    padding:10px;border:1px solid #000;
+    border-radius: 5px;
+    width:30%;
+    position: fixed;left:0;right:0;top:0;
+    bottom: 0;margin:auto;
+    height:300px;display: none;
+}
+.con{
+    width:300px;display: none;
+    position: absolute;
+    height:280px;left:0;top:0;
+}
+.con-con{
+  width:100%;height:50px!important;overflow-y: scroll!important;
+}
